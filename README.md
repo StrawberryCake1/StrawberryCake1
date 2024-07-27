@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StrawberryCake1
-- 👀 I’m interested in ... HTML/JS/SCSS/JAVA
-- 🌱 I’m currently learning ...JAVA
+- 👀 I’m interested in ... HTML/JS/SCSS/JAVA/SQL
+- 🌱 I’m currently learning ...SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
