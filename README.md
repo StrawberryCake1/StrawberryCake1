@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StrawberryCake1
-- 👀 I’m interested in ... HTML/JS/SCSS/JAVA/SQL/Spring boot/
+- 👀 I’m interested in ... HTML/JS/CSS/JAVA/SQL/Python/
 - 🌱 I’m currently learning ...Spring boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
